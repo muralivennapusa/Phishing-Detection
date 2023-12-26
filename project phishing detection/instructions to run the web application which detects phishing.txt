@@ -1,0 +1,14 @@
+INSTRUCTION TO RUN THE WEB APPLICATION:
+
+-> create a folder name it something like "project phishing detection"
+-> copy the backend file "working_web_application_backend.py" in the folder you
+   just created
+-> make another folder inside named "templates" 
+-> paste the html files "index.html" and "pass.html"
+-> open the folder "project phishing detection" in vscode and run the python file
+   "working_web_application.py" 
+-> "ctrl+click" the http link that is generated in the terminal
+-> a browser window will open in your default browser
+-> enter the linke in the text box and click the button
+-> can just enter a different link how many times you want
+-> go to the vscode terminal and "ctrl+C" to close the web application
